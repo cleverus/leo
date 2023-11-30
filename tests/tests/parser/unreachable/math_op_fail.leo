@@ -5,6 +5,8 @@ expectation: Fail
 
 let x = a ; b;
 
+let x = a ; b;
+
 let x = a import b;
 
 let x = a , b;
