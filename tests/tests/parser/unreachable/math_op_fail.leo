@@ -1,6 +1,6 @@
 /*
 namespace: ParseStatement
-expectation: Fails
+expectation: Fail
 */
 
 let x = a ; b;
