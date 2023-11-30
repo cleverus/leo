@@ -1,11 +1,7 @@
-/*  
+/* 
 namespace: ParseStatement
 expectation: Fail
 */
-
-let x = a ; b;
-
-let x = a ; b;
 
 let x = a ; b;
 
